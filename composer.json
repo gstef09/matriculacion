@@ -1,0 +1,16 @@
+{
+    "name": "usu/sau-matriculas",
+    "description": "Sistema de Matriculación UNESUM",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Acuña",
+            "email": "gabriel.acuna@unesum.edu.ec"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "firebase/php-jwt": "dev-master",
+        "phpmailer/phpmailer": "dev-master"
+    }
+}
